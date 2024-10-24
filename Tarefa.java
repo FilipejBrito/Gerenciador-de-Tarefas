@@ -1,4 +1,4 @@
-package org.SistemaFinaceiroSpring;
+package org.GerenciaTarefa;
 
 
 public class Tarefa {
